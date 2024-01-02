@@ -1,0 +1,11 @@
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\bin\Debug\net7.0\InventoryStrategy.deps.json
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\bin\Debug\net7.0\InventoryStrategy.dll
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\bin\Debug\net7.0\InventoryStrategy.pdb
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\InventoryStrategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\InventoryStrategy.AssemblyInfoInputs.cache
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\InventoryStrategy.AssemblyInfo.cs
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\InventoryStrategy.csproj.CoreCompileInputs.cache
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\InventoryStrategy.dll
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\refint\InventoryStrategy.dll
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\InventoryStrategy.pdb
+D:\repos\MyGitHub\InventoryStrategy\InventoryStrategy\obj\Debug\net7.0\ref\InventoryStrategy.dll
