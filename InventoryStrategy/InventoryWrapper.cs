@@ -12,6 +12,7 @@ public class InventoryWrapper : IEnumerable<Product>
    public InventoryWrapper(InventoryManagementApproach managementApproach)
    {
       _managementApproach = managementApproach;
+      _products = new List<Product>();
    }
 
    public void Add(Product product)=>_products.Add(product);
