@@ -11,6 +11,7 @@ public class LIFOEnumerator : IEnumerator<Product>
    public LIFOEnumerator(List<Product> products)
    {
       _products = products ?? throw new ArgumentNullException(nameof(products));
+       Reset();
    }
 
    public Product Current
